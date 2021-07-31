@@ -4,8 +4,6 @@
 
 ## Highlighted Projects
 
-- [WikiFaaS](https://github.com/SheepiesLab/WikiFaaS)
-
 ## About Me
 
 - 👋 Hi, I’m @SheepiesLab
